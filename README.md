@@ -26,7 +26,7 @@ When you tap the "No" button, a different animation starts.
 
 ---------------------------------------
 
-## Card Hidden Animation Sayfası
+# Card Hidden Animation Sayfası
 Bu Flutter uygulaması, kullanıcıya animasyonlu bir etkileşim sunar. Ekranın alt kısmında "Evet" ve "Hayır" düğmeleri bulunur. "Evet" düğmesine tıklayınca konfeti animasyonu tetiklenir, "Hayır" düğmesine tıklandığında farklı bir animasyon başlar. Uygulama, Confetti, Animasyon ve Flutter bileşenlerini kullanarak görsel olarak ilgi çekici bir deneyim sağlar.
 
 ## Özellikler
