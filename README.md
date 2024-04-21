@@ -1,16 +1,21 @@
 # animation_example
 
-A new Flutter project.
+# Card Hidden Animation Page
+This Flutter application provides animated interaction for users. At the bottom of the screen, there are "Yes" and "No" buttons. When the "Yes" button is pressed, a confetti animation is triggered, and when the "No" button is pressed, a different animation starts. The application uses Confetti, Animation, and Flutter components to create a visually engaging experience.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+ Confetti animation
+ Button press animations
+ Simple animation control
+ Different animation speeds and curves
+ 
+# Installation and Running
+ Ensure Flutter and Dart are installed on your computer.
+ Clone this repository or download the zip file.
+ In the terminal, navigate to the project directory and run flutter pub get to install dependencies.
+ Use flutter run to start the application.
+ 
+# Usage
+While the app is running, tap the buttons on the screen.
+When you tap the "Yes" button, a confetti animation is triggered.
+When you tap the "No" button, a different animation starts.
